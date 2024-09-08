@@ -3,6 +3,8 @@ layout: default
 ---
 [<i class="fa-solid fa-arrow-left"></i>](./)
 ## Certificates
+- **Machine Learning in Production (MLOps)** - *Aug 2024* - **DeepLearning.AI** [(link)](https://www.coursera.org/account/accomplishments/certificate/2BFSYYTUBQN8){:target="_blank"}
+
 - **Data Visualization** - *Jun 2022* - **Kaggle** [(link)](https://www.kaggle.com/learn/certification/ibrahim96/data-visualization){:target="_blank"}
 
 - **Cleaning Data in Python** - *Dec 2021* - **Datacamp** [(link)](https://www.datacamp.com/statement-of-accomplishment/course/47bff27ed697c595f1d170007f80b9d80fa2de62){:target="_blank"}
