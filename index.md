@@ -43,10 +43,10 @@ Welcome to my website! Currently, I am pursuing a Master's degree in Artificial 
 <hr>
 
 # Education
-**Artificial Intelligence MSc** (*Oct 2023 - Present*)<br>
+**M.Sc. Artificial Intelligence** (*Oct 2023 - Present*)<br>
 Friedrich-Alexander-Universität Erlangen-Nürnberg. Germany.
 
-**Software Engineering BEng** (*Sep 2014 - Sep 2019*)<br>
+**B.Eng. Software Engineering** (*Sep 2014 - Sep 2019*)<br>
 Alazhar University. Gaza, Palestine.
 
 **General Secondary Education – Scientific Stream** (*2013 - 2014*)<br>
