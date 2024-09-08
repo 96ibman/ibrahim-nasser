@@ -6,7 +6,7 @@ layout: default
 
 # Brief
 
-Welcome to my website! Currently I am Pursuing a Masters Degree in Artificial Intelligence at FAU Erlangen-Nürnberg.
+Welcome to my website! Currently, I am pursuing a Master's degree in Artificial Intelligence at FAU Erlangen-Nürnberg
 
 # Experience
 **Machine Learning Trainee - Gaza Sky Geeks** <br>
