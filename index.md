@@ -10,12 +10,12 @@ Welcome to my website! Currently, I am pursuing a Master's degree in Artificial 
 
 # Recent Positions
 **Teaching Assistant (HiWi) - FAU** <br>
-Jan 2025 - Now
-*Machine Learning and Data Analytics (MaD) Lab - Department of AI in Biomedical Engineering (AIBE).*
+Jan 2025 - Now <br>
+*Machine Learning and Data Analytics (MaD) Lab - Department of AI in Biomedical Engineering (AIBE)*
 
 **Teaching Assistant (HiWi) - FAU** <br>
-Dec 2024 - Now
-*ANKI Lab - AIBE Department.*
+Dec 2024 - Now <br>
+*ANKI Lab - AIBE Department*
 
 **Clerk/IT Support - UNRWA** <br>
 *May 2022 - Sep 2022*
@@ -40,7 +40,7 @@ Dec 2024 - Now
 
 # Education
 **M.Sc. in Artificial Intelligence** (*Oct 2023 - Present*)<br>
-Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg – *Germany*
+Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg – *Germany* <br>
 **B.Eng. in Computer Systems Engineering** (*Sep 2014 - Sep 2019*)<br>
 Al-Azhar University Gaza (AUG) – *Palestine*
 <hr>
