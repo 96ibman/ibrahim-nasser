@@ -15,6 +15,15 @@ Datacamp, through Gaza Sky Geeks remote mentorship program
 <hr>
 
 ## Badges
+**<i class="fa-solid fa-award"></i> Data Engineering Essentials** - *Sep 2024* <br>
+IBM - [Credly](https://www.credly.com/badges/a7edb68c-f3bc-4bb7-81ee-afd5e8c87862/public_url)
+
+**<i class="fa-solid fa-award"></i> Python for Data Science and AI** - *Sep 2024* <br>
+IBM - [Credly](https://www.credly.com/badges/b7a7d761-1a5d-439b-84b4-10acb46a3125/public_url)
+
+**<i class="fa-solid fa-award"></i> MLOps** - *Aug 2024* <br>
+Coursera - [Credly](https://www.credly.com/badges/c3a11a40-ceb7-45b3-b942-fadf56fd0ab5/public_url)
+
 **<i class="fa-solid fa-award"></i> Python Gold Medal** - *Jun 2022* <br>
 HackerRank - [link](https://www.hackerrank.com/96ibman?hr_r=1&badge=python&stars=5&level=3&social=linkedin)
 
