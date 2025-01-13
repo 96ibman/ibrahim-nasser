@@ -28,8 +28,9 @@ sidebar:
     icon: <i class="fa-brands fa-youtube"></i>
     link: https://www.youtube.com/channel/UC7N-dy3UbSBHnwwv-vulBAA
   - name: Resume (LaTeX)
-    icon: <i class="fa-solid fa-file-arrow-down"></i>
+    icon: <i class="fa-solid fa-circle-arrow-down"></i>
     link: https://drive.google.com/file/d/1vibSZO8Z20UemIk8aAww-2AduTPn4zuw/view?usp=sharing
+    
 
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
