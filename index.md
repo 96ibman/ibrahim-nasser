@@ -25,6 +25,24 @@ Dec 2024 - Now <br>
 
 **NLP&CV Trainee** - Gaza Sky Geeks, Pal <br>
 *Sep 2021 - Jan 2022*
+
+**IT Support Volunteer** - The Independent Commission for Human Rights (ICHR), Pal <br>
+*Aug 2021 - Nov 2022*
+
+**YT Video Script Writing Volunteer** - Online <br>
+*Oct 2020 - Mar 2021*
+
+**Social Media Content Creation Volunteer** - Online <br>
+*Feb 2020 - Mar 2021*
+
+**Freelance UX Designer** - Online <br>
+*Jan 2020 - Aug 2021*
+
+**Freelancing Intern** - Gaza Sky Geeks, Pal <br>
+*Nov 2019 - May 2020*
+
+**UX/UI Design Intern** - Unit One Group, Pal <br>
+*Jun 2019 - Jul 2019*
 <hr>
 
 # Education
