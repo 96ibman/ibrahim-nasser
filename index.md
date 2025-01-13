@@ -8,7 +8,7 @@ layout: default
 
 Welcome to my website! Currently, I am pursuing a Master's degree in Artificial Intelligence at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
 
-# Recent Positions
+# Experience
 **Teaching Assistant (HiWi)** - FAU, DE <br>
 Jan 2025 - Now <br>
 *Machine Learning and Data Analytics (MaD) Lab - Department of AI in Biomedical Engineering (AIBE)*
