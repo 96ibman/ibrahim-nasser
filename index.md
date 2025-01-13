@@ -19,9 +19,12 @@ Dec 2024 - Now <br>
 
 **Clerk/IT Support** - UNRWA, Pal <br>
 *May 2022 - Sep 2022*
-* Improved data management accuracy by streamlining entry and analysis processes.
-* Enhanced organizational efficiency with a well-maintained filing system for quick document access.
-* Minimized downtime and optimized IT functionality through proactive equipment maintenance.
+
+**Data Science Trainee** - Data Insight, Online <br>
+*Sep 2021 - Jan 2022*
+
+**NLP&CV Trainee** - Gaza Sky Geeks, Pal <br>
+*Sep 2021 - Jan 2022*
 <hr>
 
 # Volunteering
@@ -50,7 +53,7 @@ Al-Azhar University Gaza (AUG) – *Palestine*
 *Regression, Classification, Clustering, SVM, Neural Networks, Gradient Descent, NLP, Computer Vision,
 CNN, RNN, LSTM, GRUs, LLMs.*
 
-**Dev.**<br>
+**Dev**<br>
 *Python, Tensorflow, PyTorch, Keras, SQL, HTML, CSS, PHP, Django, FLASK, FAST API, Docker.*
 
 **Languages**<br>
