@@ -9,11 +9,11 @@ layout: default
 Welcome to my website! Currently, I am pursuing a Master's degree in Artificial Intelligence at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
 
 # Experience
-**Teaching Assistant (HiWi)** - FAU, DE <br>
+**Student Assistant (HiWi)** - FAU, DE <br>
 Jan 2025 - Now <br>
 *Machine Learning and Data Analytics (MaD) Lab - Department of AI in Biomedical Engineering (AIBE)*
 
-**Teaching Assistant (HiWi)** - FAU, DE <br>
+**Student Assistant (HiWi)** - FAU, DE <br>
 Dec 2024 - Now <br>
 *ANKI Lab - AIBE Department*
 
@@ -55,11 +55,10 @@ Al-Azhar University Gaza (AUG) – *Palestine*
 
 # Skills
 **Theory**<br>
-*Regression, Classification, Clustering, SVM, Neural Networks, Gradient Descent, NLP, Computer Vision,
-CNN, RNN, LSTM, GRUs, LLMs.*
+*Regression, Classification, Clustering, ANNs, CNNs, RNNs, LLMs, Gradient Descent, NLP, Computer Vision.*  
 
 **Dev**<br>
-*Python, Tensorflow, PyTorch, Keras, SQL, HTML, CSS, PHP, Django, FLASK, FAST API, Docker.*
+*Python, NumPy, SQL, PostgreSQL, MongoDB, HTML, CSS, PHP, Django, Flask, FastAPI, TensorFlow, PyTorch, Keras, Jupyter, Git, Bash, Linux, Docker, CI/CD.*
 
 **Languages**<br>
 *German (Beginner), English (C1: IELTS Band 8), Arabic (Native)*
