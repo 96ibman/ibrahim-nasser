@@ -4,7 +4,7 @@ layout: default
 [<i class="fa-solid fa-arrow-left"></i>](./)
 ## Awards
 **<i class="fa-solid fa-award"></i> Future Skills Scholarship** (*Jul 2024 – Nov 2024*) <br>
-a joint initiative by the United Nations Development Programme’s Regional Bureau for Arab States (UNDP RBAS) and the Mohammed bin Rashid Al Maktoum Knowledge Foundation (MBRF), in partnership with Coursera
+Joint initiative by the United Nations Development Programme’s Regional Bureau for Arab States (UNDP RBAS) and the Mohammed bin Rashid Al Maktoum Knowledge Foundation (MBRF), in partnership with Coursera
 
 **<i class="fa-solid fa-award"></i> Data Scientist Program Scholarship** (*Sep 2021 – Sep 2022*) <br>
 Data Insight

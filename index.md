@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Publications](./publications.html) | [Awards and Badges](./awards-badges.html) | [Certificates](./certificates.html)
+[Publications](./publications.html) | [Awards and Badges](./awards-badges.html) | [Certificates](./certificates.html) | [Blog](https://96ibman.github.io/)
 
 # Brief
 
@@ -14,7 +14,7 @@ Jan 2025 - Now <br>
 *Machine Learning and Data Analytics (MaD) Lab - Department of AI in Biomedical Engineering (AIBE)*
 
 **Student Assistant (HiWi)** - FAU, DE <br>
-Dec 2024 - Now <br>
+Dec 2024 - Mar 2025 <br>
 *ANKI Lab - AIBE Department*
 
 **Clerk/IT Support** - UNRWA, Pal <br>
@@ -47,7 +47,7 @@ Dec 2024 - Now <br>
 
 # Education
 **M.Sc. in Artificial Intelligence** (*Oct 2023 - Present*)<br>
-Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg – *Germany* <br>
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – *Germany* <br>
 
 **B.Eng. in Computer Systems Engineering** (*Sep 2014 - Sep 2019*)<br>
 Al-Azhar University Gaza (AUG) – *Palestine*
