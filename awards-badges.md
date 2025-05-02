@@ -3,17 +3,17 @@ layout: default
 ---
 [<i class="fa-solid fa-arrow-left"></i>](./)
 ## Awards
-**<i class="fa-solid fa-award"></i> Future Skills Scholarship** (*Jul 2024 – Nov 2024*) <br>
+**<i class="fa-solid fa-award"></i> Future Skills Scholarship** (*Jul 2024 – Nov 2024*) [(Link)](https://www.undp.org/arab-states/stories/future-skills-academy-incubator-hope-and-enabler-arab-citizens-potential){:target="_blank"} <br>
 Joint initiative by the United Nations Development Programme’s Regional Bureau for Arab States (UNDP RBAS) and the Mohammed bin Rashid Al Maktoum Knowledge Foundation (MBRF), in partnership with Coursera
 
 **<i class="fa-solid fa-award"></i> Data Scientist Program Scholarship** (*Sep 2021 – Sep 2022*) <br>
-Data Insight
+[Data Insight](https://www.datainsightonline.com/data-scientist-program){:target="_blank"}
 
 **<i class="fa-solid fa-award"></i> Coursera Data Analytics Scholarship** (*Aug 2021 – Dec 2021*) <br>
-Google, through Gaza Sky Geeks
+Google, through [Gaza Sky Geeks](https://gazaskygeeks.com/){:target="_blank"}
 
 **<i class="fa-solid fa-award"></i> Machine Learning Applications Scholarship** (*Sep 2021 – Nov 2021*) <br>
-Datacamp, through Gaza Sky Geeks remote mentorship program
+Datacamp, through [Gaza Sky Geeks](https://gazaskygeeks.com/){:target="_blank"} remote mentorship program
 
 <hr>
 
