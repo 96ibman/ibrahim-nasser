@@ -2,17 +2,17 @@
 layout: default
 ---
 
-[Publications](./publications.html) | [Awards and Badges](./awards-badges.html) | [Certificates](./certificates.html) | [Blog](https://96ibman.github.io/)
+[Online Courses](./certificates.html) | [Awards and Badges](./awards-badges.html) | [Blog](https://96ibman.github.io/)
 
 Welcome to my website! I’m currently pursuing my Master’s in [AI](https://www.ai.study.fau.eu/prospective-students/master-ai/master-programme-ai/){:target="_blank"} at [FAU](https://www.fau.eu/){:target="_blank"} (Friedrich-Alexander-Universität Erlangen-Nürnberg). The program is part of the [AI in Biomedical Engineering department (AIBE)](https://www.aibe.tf.fau.de/){:target="_blank"} within the [Faculty of Engineering](https://www.tf.fau.eu/){:target="_blank"}.
 
 
 ## Experience
 ### Currently
-I’ve been working as a Student Assistant (HiWi) at FAU in multiple labs (Chairs) within the Department of AI in Biomedical Engineering. At the [Biomedical Network Science (BIONETS) Lab](https://www.bionets.tf.fau.de/){:target="_blank"} (since May 2025), I lead exercise sessions for the Data Engineering course. At the [Machine Learning and Data Analytics (MaD) Lab](https://www.mad.tf.fau.de/){:target="_blank"} (since January 2025), I assist in organizing the Human-Computer Interaction course and have contributed to a short-term project on gait analysis, focusing on stride segmentation.
+I’ve been working as a Teaching Assistant (HiWi) at [FAU](https://www.fau.eu/){:target="_blank"} in multiple labs (Chairs) within [AIBE](https://www.aibe.tf.fau.de/){:target="_blank"}. At the [Biomedical Network Science (BIONETS) Lab](https://www.bionets.tf.fau.de/){:target="_blank"} (since May 2025), I lead exercise sessions for the Data Engineering course. At the [Machine Learning and Data Analytics (MaD) Lab](https://www.mad.tf.fau.de/){:target="_blank"} (since January 2025), I assist in organizing the Human-Computer Interaction course and have contributed to a short-term project on gait analysis, focusing on stride segmentation.
 
 ### Previous Roles
-**Student Assistant (HiWi)** - FAU, DE <br>
+**Research Assistant (HiWi)** - FAU, DE <br>
 Dec 2024 - Mar 2025 <br>
 *[ANKI Lab](https://anki.xyz/){:target="_blank"}*
 
@@ -46,18 +46,8 @@ Dec 2024 - Mar 2025 <br>
 
 ## Education
 **M.Sc. in Artificial Intelligence** (*Oct 2023 - Present*)<br>
-Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) – *DE* <br>
+[Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)](https://www.fau.eu/){:target="_blank"} – *DE* <br>
 
 **B.Eng. in Computer Systems Engineering** (*Sep 2014 - Sep 2019*)<br>
 [Al-Azhar University Gaza (AUG)](https://www.alazhar.edu.ps/eng/UnderGr/Eng/Software-Engineering/eng.asp){:target="_blank"} – *Pal*
 <hr>
-
-## Skills
-**Theory**<br>
-*Regression, Classification, Clustering, ANNs, CNNs, RNNs, LLMs, Gradient Descent, NLP, Computer Vision.*  
-
-**Dev**<br>
-*Python, NumPy, SQL, PostgreSQL, MongoDB, HTML, CSS, PHP, Django, Flask, FastAPI, TensorFlow, PyTorch, Keras, Jupyter, Git, Bash, Linux, Docker, CI/CD.*
-
-**Languages**<br>
-*German (A2), English (C1: IELTS Band 8), Arabic (Native)*

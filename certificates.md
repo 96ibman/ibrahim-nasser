@@ -2,7 +2,7 @@
 layout: default
 ---
 [<i class="fa-solid fa-arrow-left"></i>](./)
-## Certificates
+## Online Courses
 - **Machine Learning in Production (MLOps)** - *Aug 2024* - **DeepLearning.AI** [(link)](https://www.coursera.org/account/accomplishments/certificate/2BFSYYTUBQN8){:target="_blank"}
 
 - **Data Visualization** - *Jun 2022* - **Kaggle** [(link)](https://www.kaggle.com/learn/certification/ibrahim96/data-visualization){:target="_blank"}
