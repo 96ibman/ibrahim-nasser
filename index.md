@@ -9,12 +9,18 @@ Welcome to my website! I’m currently pursuing my Master’s in [AI](https://ww
 
 ## Experience
 ### Currently
-I’ve been working as a Teaching Assistant (HiWi) at [FAU](https://www.fau.eu/){:target="_blank"} in multiple labs (Chairs) within [AIBE](https://www.aibe.tf.fau.de/){:target="_blank"}. At the [Biomedical Network Science (BIONETS) Lab](https://www.bionets.tf.fau.de/){:target="_blank"} (since May 2025), I lead exercise sessions for the Data Engineering course. At the [Machine Learning and Data Analytics (MaD) Lab](https://www.mad.tf.fau.de/){:target="_blank"} (since January 2025), I assist in organizing the Human-Computer Interaction course and have contributed to a short-term project on gait analysis, focusing on stride segmentation.
+I’ve been working as a HiWi at [FAU](https://www.fau.eu/){:target="_blank"} in multiple labs (Chairs) across the Department of [Computer Science](https://cs.fau.de/){:target="_blank"} and [AIBE](https://www.aibe.tf.fau.de/){:target="_blank"}.
+At the [Chair of Knowledge Representation and Processing (KWARC)](https://kwarc.info/){:target="_blank"}  (since October 2025), I lead tutorial sessions for the Artificial Intelligence I (AI 1) course, guiding students through foundational AI topics such as search algorithms, constraint satisfaction, and logical reasoning.
+At the [Machine Learning and Data Analytics (MaD) Lab](https://www.mad.tf.fau.de/){:target="_blank"} (since January 2025), I assist in organizing the Human-Computer Interaction course and have contributed to a short-term project on gait analysis, focusing on stride segmentation.
 
 ### Previous Roles
-**Research Assistant (HiWi)** - FAU, DE <br>
+**Tutor/HiWi** - [BIONETS Lab](https://www.bionets.tf.fau.de/){:target="_blank"}, [FAU](https://www.fau.eu/){:target="_blank"}, DE <br>
+May 2025 - Sep 2025 <br>
+*Led exercise sessions and prepared materials for the Data Engineering course.*
+
+**Research Assistant (HiWi)** - [ANKI Lab](https://anki.xyz/){:target="_blank"}, [FAU](https://www.fau.eu/){:target="_blank"}, DE <br>
 Dec 2024 - Mar 2025 <br>
-*[ANKI Lab](https://anki.xyz/){:target="_blank"}*
+*Supported a seminar by providing feedback on student assignments and assisting in X-ray video segmentation for a master’s thesis project.*
 
 **Clerk/IT Support** - [UNRWA](https://www.unrwa.org/){:target="_blank"} Pal <br>
 *May 2022 - Sep 2022*
