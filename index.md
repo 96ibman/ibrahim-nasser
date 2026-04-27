@@ -10,18 +10,21 @@ Welcome to my website! I’m currently pursuing my Master’s in [AI](https://ww
 ## Experience
 ### Currently
 I’ve been working as a HiWi at [FAU](https://www.fau.eu/){:target="_blank"} in multiple labs (Chairs) across the Department of [Computer Science](https://cs.fau.de/){:target="_blank"} and [AIBE](https://www.aibe.tf.fau.de/){:target="_blank"}.
-At the [Chair of Knowledge Representation and Processing (KWARC)](https://kwarc.info/){:target="_blank"}  (since April 2026), I lead tutorial sessions for the Artificial Intelligence II (AI 2) course, guiding students through foundational Subsymbolic AI topics such as search Probabilistic Reasoning, Inductive Learning, and Machine/Deep Learning.
-At the [Machine Learning and Data Analytics (MaD) Lab](https://www.mad.tf.fau.de/){:target="_blank"} (since January 2025), I assist in organizing the Human-Computer Interaction course and have contributed to a short-term project on gait analysis, focusing on stride segmentation.
+At the [Chair of Knowledge Representation and Processing (KWARC)](https://kwarc.info/){:target="_blank"}  (since April 2026), I lead tutorial sessions for the Artificial Intelligence II (AI 2) course, guiding students through foundational Subsymbolic AI topics such as Probabilistic Reasoning and Bayesian Networks, Inductive Learning, and Machine/Deep Learning. At the [Machine Learning and Data Analytics (MaD) Lab](https://www.mad.tf.fau.de/){:target="_blank"} (since January 2025), I assist in organizing the Human-Computer Interaction course and have contributed to a short-term project on gait analysis, focusing on stride segmentation.
 
 ### Previous Roles
 **Tutor/HiWi** - [KWARC](https://kwarc.info/){:target="_blank"}, [FAU](https://www.fau.eu/){:target="_blank"}, DE <br>
 Oct 2025 - Mar 2026 <br>
-- *Led tutorials of the (AI I) module (7.5 ECTS) offered by the chair of knowledge representation and processing (KWARC)*
+- *Led tutorials of the (AI I) module on Symbolic AI*
 - *Topics: Logic Programming (PROLOG), (Adversarial) Search and Heuristics, CSPs, Propositional and First-Order Logic, Natural Deduction and ATP (Tableaux, Resolution, Unification), SAT (DPLL), Description Logic (ALC), STRIPS Planning*
+- *[TeX source of the created material](https://github.com/96ibman/Symbolic-AI){:target="_blank"}*
+- *[Tutorial Organization Repo](https://github.com/96ibman/AI1_Tutorial){:target="_blank"}*
 
 **Tutor/HiWi** - [BIONETS Lab](https://www.bionets.tf.fau.de/){:target="_blank"}, [FAU](https://www.fau.eu/){:target="_blank"}, DE <br>
 May 2025 - Sep 2025 <br>
-*Led exercise sessions and prepared materials for the Data Engineering course.*
+- *Led exercise sessions of the Data Engineering module.*
+- *Topics: Data Types, ER Modeling, Set Theory and Relational Algebra, SQL, Normal Forms, Graph DBs and Cypher Queries, Elementary Statistic and Visualization, Distance and Similarity Measures, Data Bias, Outlier Detection, Data Integration*
+- *[TeX source of the created material](https://github.com/96ibman/data_engineering_notes){:target="_blank"}*
 
 **Research Assistant (HiWi)** - [ANKI Lab](https://anki.xyz/){:target="_blank"}, [FAU](https://www.fau.eu/){:target="_blank"}, DE <br>
 Dec 2024 - Mar 2025 <br>
