@@ -4,33 +4,35 @@ layout: default
 
 [Online Courses](./certificates.html) | [Awards and Badges](./awards-badges.html) | [Blog](https://96ibman.github.io/)
 
-Welcome to my website! I’m currently pursuing my Master’s in [AI](https://www.ai.study.fau.eu/prospective-students/master-ai/master-programme-ai/){:target="_blank"} at [FAU](https://www.fau.eu/){:target="_blank"} (Friedrich-Alexander-Universität Erlangen-Nürnberg). The program is part of the [AI in Biomedical Engineering department (AIBE)](https://www.aibe.tf.fau.de/){:target="_blank"} within the [Faculty of Engineering](https://www.tf.fau.eu/){:target="_blank"}.
+I’m currently pursuing my Master’s in [AI](https://www.ai.study.fau.eu/prospective-students/master-ai/master-programme-ai/){:target="_blank"} at [FAU](https://www.fau.eu/){:target="_blank"} (Friedrich-Alexander-Universität Erlangen-Nürnberg). The program is part of the [AI in Biomedical Engineering department (AIBE)](https://www.aibe.tf.fau.de/){:target="_blank"} within the [Faculty of Engineering](https://www.tf.fau.eu/){:target="_blank"}.
 
 
 ## Experience
 ### Currently
-I’ve been working as a HiWi at [FAU](https://www.fau.eu/){:target="_blank"} in multiple labs (Chairs) across the Department of [Computer Science](https://cs.fau.de/){:target="_blank"} and [AIBE](https://www.aibe.tf.fau.de/){:target="_blank"}.
-At the [Chair of Knowledge Representation and Processing (KWARC)](https://kwarc.info/){:target="_blank"}  (since April 2026), I lead tutorial sessions for the Artificial Intelligence II (AI 2) course, guiding students through foundational Subsymbolic AI topics such as Probabilistic Reasoning and Bayesian Networks, Inductive Learning, and Machine/Deep Learning. At the [Machine Learning and Data Analytics (MaD) Lab](https://www.mad.tf.fau.de/){:target="_blank"} (since January 2025), I assist in organizing the Human-Computer Interaction course and have contributed to a short-term project on gait analysis, focusing on stride segmentation.
+I am a TA at the [Chair of Knowledge Representation and Processing (KWARC)](https://kwarc.info/){:target="_blank"} since Oct 2025. My responsibilities include:
+- Conducting weekly tutorial sessions for [AI1 (Symbolic AI)](https://github.com/96ibman/AI1_Tutorial){:target="_blank"} and [AI2 (Subsymbolic AI)](https://github.com/96ibman/AI2_Tutorial){:target="_blank"}
+- Topics: PROLOG, (Adversarial) Search, CSPs, Propositional and First-Order Logic, Natural Deduction and ATP, SAT Solving, Description Logic, STRIPS Planning, Probability Theory, Bayesian Networks, HMMs, MDPs, Machine/Deep Learning
+- Authored open-source TeX course notes ([AI1](https://github.com/96ibman/Symbolic-AI){:target="_blank"}, [AI2](https://github.com/96ibman/Subsymbolic-AI){:target="_blank"})
+- Helping in other academic activities, e.g. exam proctoring and grading
+- Contributed to [ProbGen](https://github.com/UniFormal/ProbGen){:target="_blank"}, an automated system (Scala 3) for generating random (controlled) exam / practice problems
+
 
 ### Previous Roles
-**Tutor/HiWi** - [KWARC](https://kwarc.info/){:target="_blank"}, [FAU](https://www.fau.eu/){:target="_blank"}, DE <br>
-Oct 2025 - Mar 2026 <br>
-- *Led tutorials of the (AI I) module on Symbolic AI*
-- *Topics: Logic Programming (PROLOG), (Adversarial) Search and Heuristics, CSPs, Propositional and First-Order Logic, Natural Deduction and ATP (Tableaux, Resolution, Unification), SAT (DPLL), Description Logic (ALC), STRIPS Planning*
-- *[TeX source of the created material](https://github.com/96ibman/Symbolic-AI){:target="_blank"}*
-- *[Tutorial Organization Repo](https://github.com/96ibman/AI1_Tutorial){:target="_blank"}*
+**Teaching Assistant** - [Chair of Machine Learning and Data Analytics](https://www.mad.tf.fau.de/){:target="_blank"}, [FAU](https://www.fau.eu/){:target="_blank"}, DE <br>
+Jan 2025 - Sep 2026 <br>
+*Provided academic support the Human-Computer Interaction (HCI) course by developing lecture materials, brainstorming exam questions, and contributing to course organization.*
 
-**Tutor/HiWi** - [BIONETS Lab](https://www.bionets.tf.fau.de/){:target="_blank"}, [FAU](https://www.fau.eu/){:target="_blank"}, DE <br>
+
+**Teaching Assistant** - [BIONETS Lab](https://www.bionets.tf.fau.de/){:target="_blank"}, [FAU](https://www.fau.eu/){:target="_blank"}, DE <br>
 May 2025 - Sep 2025 <br>
-- *Led exercise sessions of the Data Engineering module.*
-- *Topics: Data Types, ER Modeling, Set Theory and Relational Algebra, SQL, Normal Forms, Graph DBs and Cypher Queries, Elementary Statistic and Visualization, Distance and Similarity Measures, Data Bias, Outlier Detection, Data Integration*
-- *[TeX source of the created material](https://github.com/96ibman/data_engineering_notes){:target="_blank"}*
+- *Delivered weekly tutorial sessions covering ER modeling, SQL, Cypher, relational algebra, functional dependencies, normalization, descriptive statistics, outlier detection, Isolation Forests/LOF, and multimodal data integration*
+- *Authored open-source [TeX](https://github.com/96ibman/data_engineering_notes){:target="_blank"} course notes*
 
-**Research Assistant (HiWi)** - [ANKI Lab](https://anki.xyz/){:target="_blank"}, [FAU](https://www.fau.eu/){:target="_blank"}, DE <br>
+**Research Assistant** - [ANKI Lab](https://anki.xyz/){:target="_blank"}, [FAU](https://www.fau.eu/){:target="_blank"}, DE <br>
 Dec 2024 - Mar 2025 <br>
-*Supported a seminar by providing feedback on student assignments and assisting in X-ray video segmentation for a master’s thesis project.*
+*Evaluated and provided technical feedback on student seminar submissions, and performed segmentation on medical imaging datasets for master’s thesis research.*
 
-**Clerk/IT Support** - [UNRWA](https://www.unrwa.org/){:target="_blank"} Pal <br>
+**Clerk/IT Support** - [UNRWA](https://www.unrwa.org/){:target="_blank"}, Pal <br>
 *May 2022 - Sep 2022*
 
 **Data Science Trainee** - [Data Insight](https://www.datainsightonline.com/data-scientist-program){:target="_blank"}, Online <br>
